@@ -1,0 +1,19 @@
+.container1 {
+    display: grid;
+    margin-top: 50px;
+    margin-bottom: 110px;
+    .acercar{
+        overflow: hidden;
+        img{
+            transition: all 2s;
+            &:hover{
+                transform: scale(1.5);
+            }
+        }
+    }
+    .card{
+        display: flex;
+        text-align: center;
+    }
+    
+}
