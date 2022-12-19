@@ -23,7 +23,13 @@
   text-align: center;
 }
 
+.descripcion-nosotros {
+  margin-bottom: 100px;
+  text-align: center;
+} 
+
 /* mobile first 0px - 500px */
+
 .bkc {
   background-color: black;
 }
@@ -34,10 +40,6 @@
 
 p {
   margin-bottom: 0;
-}
-
-.descripcion-nosotros {
-  margin-bottom: 100px;
 }
 
 .cuadrado-preguntas {

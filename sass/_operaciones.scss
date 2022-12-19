@@ -1,0 +1,8 @@
+@mixin size ($margin-bottom){
+    margin-bottom: $margin-bottom;
+}
+
+.descripcion-nosotros{
+    @include size(100px);
+    text-align: center;
+}
